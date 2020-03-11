@@ -33,7 +33,7 @@
 		</operation>
 		<operation>
 			<search index="0"><![CDATA[<td colspan="5"></td>]]></search>
-			<add position="replace" error="log"><![CDATA[<td colspan=6"></td>]]></add>
+			<add position="replace" error="log"><![CDATA[<td colspan="6"></td>]]></add>
 		</operation>
 
 		<operation>
